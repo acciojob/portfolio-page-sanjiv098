@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+.salman{
+	border:2px solid #333;
+	padding:20px;
+}
+img{
+	margin:0px auto;
+}
+div>h1{
+	background-color:black;
+	color:white;
+	width:50%;
+	border:2px solid blue;
+}
+div>a{
+	text-decoration:none;
+	font-size:20px;
+}
